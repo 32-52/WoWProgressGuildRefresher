@@ -1,0 +1,5 @@
+siteUrl=https://www.wowprogress.com
+logFile=./wowPGRLog.txt
+isDebug=false
+guildThreadsPoolSize=1
+playerThreadsPoolSize=8
